@@ -1,0 +1,5 @@
+﻿     Создается библиотека C:\workspace\PyGDSL\PyGDSL\Release\PyGDSL.lib и объект C:\workspace\PyGDSL\PyGDSL\Release\PyGDSL.exp
+module.obj : error LNK2001: неразрешенный внешний символ "__imp__PyFloat_AsDouble"
+module.obj : error LNK2001: неразрешенный внешний символ "__imp__PyFloat_FromDouble"
+module.obj : error LNK2001: неразрешенный внешний символ "__imp__PyModule_Create2"
+C:\workspace\PyGDSL\PyGDSL\Release\PyGDSL.pyd : fatal error LNK1120: неразрешенных внешних элементов: 3
